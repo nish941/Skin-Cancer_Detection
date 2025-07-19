@@ -1,4 +1,4 @@
- Skin Cancer Diagnosis (ResNet-50 + Flask Web App)
+Computer-Aided Skin Cancer Diagnosis (ResNet + Web App)
 
 *A college deep learning project that started as coursework but became an intense experiment in real-world medical AI.*
 
